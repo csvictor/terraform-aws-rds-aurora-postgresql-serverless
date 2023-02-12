@@ -1,0 +1,5 @@
+env                 = "dev"
+region              = "us-west-2"
+vpc_id              = "vpc-02abc3e8c71cb479b"
+username            = "postgres"
+project             = "univ"
